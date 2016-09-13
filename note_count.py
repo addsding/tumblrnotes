@@ -3,10 +3,7 @@ import heapq
 
 # Authenticate via OAuth
 client = pytumblr.TumblrRestClient(
-    '878eRiHOu9LXg2pvQUsrfy7Tn835NOo4czF50LwUcuYZvDnV5m',
-    'dkCQzKZNCzHTkHDWHaccUL1JwvwprVu9eBo3n1Cp1sL9T0c5GM',
-    'g1CgrMV5xapDp0vwb6fX32xtdVY1ChGN018jFhhIeG127ib7MW',
-    'xhzj13w4pExGyr4b2zkvpGyJVyQseMr4qkt5YrTVVd7FuTGx2u'
+    # your keys here
 )
 
 """
