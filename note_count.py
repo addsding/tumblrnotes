@@ -224,7 +224,7 @@ def merge_dicts(dicts):
 
 
 """
-Finds the top __ original posts, the number specified by the user.
+Finds the top 5 original posts, the number specified by the user.
 
 :param blog: the blog's username/URL
 :param filters: list of filters with Strings representing post types desired
